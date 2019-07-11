@@ -43,3 +43,5 @@ def get_tags(app):
                 print type(ex), ex
 
         return tags
+
+print ("Installed Python plugin")
